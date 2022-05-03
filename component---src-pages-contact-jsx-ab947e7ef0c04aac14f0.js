@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklime=self.webpackChunklime||[]).push([[661],{1353:function(t,e,n){n.r(e);var l=n(6771),c=(n(7294),n(13)),i=n(2759),r=n(3431);e.default=function(){return(0,r.tZ)(i.A,{title:"お問い合わせ | LIME",jpUrl:"/contact",enUrl:"/en/contact"},(0,r.tZ)(a,null,(0,r.tZ)("p",null,"お問い合わせ")))};var a=(0,l.Z)("section",{target:"e9p0c0a0"})("background-color:",c.I.light,";height:100vh;display:flex;align-items:center;justify-content:center;")}}]);
+//# sourceMappingURL=component---src-pages-contact-jsx-ab947e7ef0c04aac14f0.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklime=self.webpackChunklime||[]).push([[484],{3879:function(e,t,n){n.r(t);var l=n(6771),r=(n(7294),n(13)),i=n(2759),u=n(3431);t.default=function(){return(0,u.tZ)(i.A,{title:"採用情報 | LIME",jpUrl:"/recruit",enUrl:"/en/recruit"},(0,u.tZ)(c,null,(0,u.tZ)("p",null,"採用情報")))};var c=(0,l.Z)("section",{target:"e9snj6h0"})("background-color:",r.I.light,";height:100vh;display:flex;align-items:center;justify-content:center;")}}]);
+//# sourceMappingURL=component---src-pages-recruit-jsx-f33cb07fb2ad46d4adfe.js.map

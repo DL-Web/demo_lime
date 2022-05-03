@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklime=self.webpackChunklime||[]).push([[400],{1538:function(t,e,n){n.r(e);var l=n(6771),r=(n(7294),n(13)),u=n(2759),c=n(3431);e.default=function(){return(0,c.tZ)(u.A,{title:"製品案内 | LIME",jpUrl:"/product",enUrl:"/en/product"},(0,c.tZ)(i,null,(0,c.tZ)("p",null,"製品案内")))};var i=(0,l.Z)("section",{target:"enl4dt90"})("background-color:",r.I.light,";height:100vh;display:flex;justify-content:center;align-items:center;")}}]);
+//# sourceMappingURL=component---src-pages-product-jsx-c589c4b9df9efd282231.js.map

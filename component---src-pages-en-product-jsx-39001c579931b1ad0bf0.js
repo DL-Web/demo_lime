@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklime=self.webpackChunklime||[]).push([[148],{2139:function(t,e,n){n.r(e);var l=n(6771),r=(n(7294),n(13)),u=n(1571),c=n(3431);e.default=function(){return(0,c.tZ)(u.v,{title:"PRODUCT | LIME",jpUrl:"/product",enUrl:"/en/product"},(0,c.tZ)(i,null,(0,c.tZ)("p",null,"EN PRODUCT")))};var i=(0,l.Z)("section",{target:"e4mxpn90"})("background-color:",r.I.light,";height:100vh;display:flex;justify-content:center;align-items:center;")}}]);
+//# sourceMappingURL=component---src-pages-en-product-jsx-39001c579931b1ad0bf0.js.map

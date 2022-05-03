@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklime=self.webpackChunklime||[]).push([[421],{3249:function(e,t,n){n.r(t);var l=n(6771),c=(n(7294),n(13)),i=n(1571),r=n(3431);t.default=function(){return(0,r.tZ)(i.v,{title:"COMPANY | LIME",jpUrl:"/company",enUrl:"/en/company"},(0,r.tZ)(a,null,(0,r.tZ)("p",null,"EN COMPANY")))};var a=(0,l.Z)("section",{target:"e1jagpe20"})("background-color:",c.I.light,";height:100vh;display:flex;align-items:center;justify-content:center;")}}]);
+//# sourceMappingURL=component---src-pages-en-company-jsx-d54f83595a0378ecc440.js.map

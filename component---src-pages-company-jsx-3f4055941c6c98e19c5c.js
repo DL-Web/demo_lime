@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklime=self.webpackChunklime||[]).push([[524],{2152:function(e,t,n){n.r(t);var l=n(6771),c=(n(7294),n(13)),i=n(2759),r=n(3431);t.default=function(){return(0,r.tZ)(i.A,{title:"会社案内 | LIME",jpUrl:"/company",enUrl:"/en/company"},(0,r.tZ)(u,null,(0,r.tZ)("p",null,"会社案内")))};var u=(0,l.Z)("section",{target:"e1ehbgkd0"})("background-color:",c.I.light,";height:100vh;display:flex;align-items:center;justify-content:center;")}}]);
+//# sourceMappingURL=component---src-pages-company-jsx-3f4055941c6c98e19c5c.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklime=self.webpackChunklime||[]).push([[375],{4151:function(t,e,n){n.r(e);var l=n(6771),c=(n(7294),n(13)),i=n(1571),r=n(3431);e.default=function(){return(0,r.tZ)(i.v,{title:"CONTACT | LIME",jpUrl:"/contact",enUrl:"/en/contact"},(0,r.tZ)(u,null,(0,r.tZ)("p",null,"EN CONTACT")))};var u=(0,l.Z)("section",{target:"e1ygz42y0"})("background-color:",c.I.light,";height:100vh;display:flex;align-items:center;justify-content:center;")}}]);
+//# sourceMappingURL=component---src-pages-en-contact-jsx-9c83f59d764780f898bf.js.map
